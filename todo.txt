@@ -1,0 +1,11 @@
+Notion = https://www.notion.so/MOVERS-assistance-webapp-6b9515b7420842e08bc04dd3c4e54048
+Github = 
+Gmail = dhhasansaha11@gmail.com
+
+TOOD LIST
+ ## models
+ ## routes
+    ## profile picture.
+    ## reset password.
+    ## forget password.
+    ## email +.
